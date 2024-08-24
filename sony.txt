@@ -10,3 +10,4 @@ theia.dl.playstation.net
 tmdb.np.dl.playstation.net
 gs-sec.ww.np.dl.playstation.net
 *.mxp.llnw.net
+*.mxp64.r.cloudfront.net
