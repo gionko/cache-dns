@@ -113,11 +113,6 @@
 			"domain_files": ["windowsupdates.txt"]
 		},
 		{
-			"name": "riot",
-			"description": "CDN for riot games",
-			"domain_files": ["riot.txt"]
-		},
-		{
 			"name": "xboxlive",
 			"description": "CDN for xboxlive",
 			"domain_files": ["xboxlive.txt"]
