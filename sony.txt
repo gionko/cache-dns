@@ -12,3 +12,4 @@ gs-sec.ww.np.dl.playstation.net
 *.mxp.llnw.net
 *.mxp64.r.cloudfront.net
 *.deploy.static.akamaitechnologies.com
+151.101.240.204
